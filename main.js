@@ -270,7 +270,7 @@ FRIENDS.forEach((fr, i) => {
 const SCENARIOS = [
   {
     state: "closed", palette: "lilac", tag: "Petals folded",
-    name: "Tini", role: "University student",
+    name: "Saara", role: "University student",
     quote: "I just need to be quiet for a while - without having to explain it.",
     context: "Home after a long day of group work and constant conversation. Socially drained, and with no energy to message anyone back.",
     flower: "She rests her phone in the stand and the flower slowly closes its petals. Her close friends see she needs rest - no message or social-media update required.",
@@ -278,7 +278,7 @@ const SCENARIOS = [
   },
   {
     state: "open", palette: "coral", tag: "Petals open",
-    name: "Wojciech", role: "Studies from home",
+    name: "Mateo", role: "Studies from home",
     quote: "I've got energy tonight. I'd love company, just not a dozen separate chats.",
     context: "A whole day spent studying alone. By evening he feels energetic and open to people, without wanting to check apps or text everyone individually.",
     flower: "He places his phone in the stand and opens the petals to an active, available state. Friends in the meadow can see he's up for studying together or something spontaneous.",
@@ -286,7 +286,7 @@ const SCENARIOS = [
   },
   {
     state: "fold", palette: "blush", tag: "Me time · 2h",
-    name: "Elsa", role: "Full-time work · new to meditation",
+    name: "Aino", role: "Full-time work · new to meditation",
     quote: "Every buzz pulls me back in. I need a real pause before I can be there for anyone.",
     context: "Exhausted after work and wanting to meditate, but messages keep popping up and the constant glancing leaves her stressed and overwhelmed.",
     flower: "She sets 'me time' for two hours. The flower closes, then slowly reopens across the window. Friends read the state and hold off, knowing she'll reach out when she's ready.",
@@ -294,7 +294,7 @@ const SCENARIOS = [
   },
   {
     state: "closed", palette: "peach", tag: "Petals folded",
-    name: "Julian", role: "Quietly carries a lot",
+    name: "Felix", role: "Quietly carries a lot",
     quote: "Some days I can't find the words for how drained I am, and I worry about letting people down.",
     context: "Often struggles to tell friends about emotional exhaustion, afraid of disappointing them by going quiet or saying the wrong thing.",
     flower: "He rests his phone and folds the petals. The flower communicates his reduced social energy on its own - friends interpret the state passively and with empathy.",
